@@ -1,7 +1,11 @@
 package json;
 
 import java.util.ArrayList;
-
+/**
+ * 
+ * @author Paulo Pereira
+ *
+ */
 public class main {
 
 	public static void main(String[] args) {
